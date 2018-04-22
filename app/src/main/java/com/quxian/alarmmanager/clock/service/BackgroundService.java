@@ -153,7 +153,7 @@ public class BackgroundService extends Service {
 
     public String getInfoDetails() {
         if(info.equals("")){
-            return String.valueOf(1);
+            return "setTime: " + String.valueOf(1);
         }
         return this.info;
     }

@@ -34,6 +34,7 @@ public class ClockAlarmActivity extends Activity {
             vibrator.vibrate(new long[]{100, 10, 100, 600}, 0);
         }
 
+        AppUtils.wakeUpAndUnlock();
         final SimpleDialog dialog = new SimpleDialog(this, R.style.Theme_dialog);
         dialog.show();
         dialog.setTitle("闹钟提醒");
