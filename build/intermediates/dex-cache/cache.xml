@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\quxia\Desktop\bbt\clock\clock1\alarmmanagerclock\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a3d0cacd7a3a3f7107ff5c795d213e59d6703a2">
+        <dex dex="C:\Users\quxia\Desktop\bbt\clock\clock1\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\quxia\.gradle\caches\transforms-1\files-1.1\pickerview-2.0.8.aar\61f0b4bf75f161330f61fd8591b79e9f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3f00bb9cdb0a14b0db183427d227bfd78b29ec2">
+        <dex dex="C:\Users\quxia\Desktop\bbt\clock\clock1\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+
+</items>
